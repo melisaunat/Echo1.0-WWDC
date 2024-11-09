@@ -15,12 +15,30 @@ Processing 4
 <img width="784" alt="Screenshot 2024-11-09 at 4 10 07 PM" src="https://github.com/user-attachments/assets/f833c6b5-9b26-4064-86e3-a7b4b16a6f2a">
 
 # Getting Started
-To run this project, you’ll need to have Processing installed on your machine. This project is designed to be beginner-friendly, with clear comments and straightforward structure for easy understanding and modification.
+To run this project, you’ll need to have Processing installed on your device. This project is designed to be beginner-friendly with straightforward structure for easy understanding and modification.
 
 # Prerequisites
-Processing (download from Processing.org)
+Must have Processing installed (download from Processing.org)
 # Installation
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/interactive-art-gallery.git
+
+Copy code from
+Capturing_and_Video_Prototype.pde
+
+Copy code from 
+Cubism_Prototype.pde
+
+Open the Project Folder in Processing
+
+# Room for Improvement 
+Adding an AI speaking feature to be triggered via voice prompt instead of type-in prompting
+
+# Acknowledgments 
+Daniel Shiffman's 65-part playlist on YouTube
+
+Processing's in-site tutorials and exemplars 
+
+# Contact
+Feel free to contact me at:
+Melisa.M.Unat@student.uts.edu.au
